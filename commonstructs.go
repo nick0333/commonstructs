@@ -1,8 +1,8 @@
 package commonstructs
 
 type SuitStruct struct {
-	name   string
-	width  int
-	length int
-	cost   float64
+	Name   string
+	Width  int
+	Length int
+	Cost   float64
 }
